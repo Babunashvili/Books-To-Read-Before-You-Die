@@ -7,7 +7,8 @@
 3. Make your changes to your fork.
 4. Send a pull request from your fork’s branch to our master branch.
 
-### Enjoy Reading .. ♥
+
+### Enjoy Reading... ♥
 
 
  1. [Everything You Know About CSS Is Wrong!](#)
