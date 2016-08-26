@@ -41,6 +41,7 @@
  28. [The Principles of Project Management](/Ebooks/The%20Principles%20of%20Project%20Management.pdf)
  29. [The Ultimate CSS Reference](/Ebooks/The%20Ultimate%20CSS%20Reference.pdf)
  30. [97 Things Every Programmer Should Know - [Henney]](/Ebooks/97%20Things%20Every%20Programmer%20Should%20Know%20-%20%5BHenney%5D.pdf)
- 31. [Clean Code.pdf](/Ebooks/Clean%20Code.pdf)
+ 31. [Clean Code](/Ebooks/Clean%20Code.pdf)
+ 32. [Pro ADO.NET Data Services(BookFi.org)](/Ebooks/%5BJohn_Shaw%2C_Simon_Evans%5D_Pro_ADO.NET_Data_Services(BookFi.org).pdf)
  
 
