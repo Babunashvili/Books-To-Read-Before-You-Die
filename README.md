@@ -51,5 +51,6 @@
  38. [The Guide To Wireframing](/Ebooks/guidetowireframing1.pdf)
  39. [Lean Websites](/Ebooks/webperf1.pdf)
  40. [A Practical Guide to Information Architecture](/Ebooks/ia2.pdf)
+ 41. [The Principles of Beautiful Web Design, 3rd Edition](/Ebooks/design3pdf.zip)
  
 
