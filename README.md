@@ -54,5 +54,6 @@
  41. [The Principles of Beautiful Web Design, 3rd Edition](/Ebooks/design3pdf.zip)
  42. [Photography for the Web](/Ebooks/photography1pdf.pdf)
  43. [Build Your Own Wicked WordPress Themes](/Ebooks/wordpress1pdf.pdf)
+ 44. [The WordPress Anthology](/Ebooks/wpant1pdf.pdf)
  
 
