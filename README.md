@@ -55,5 +55,6 @@
  42. [Photography for the Web](/Ebooks/photography1pdf.pdf)
  43. [Build Your Own Wicked WordPress Themes](/Ebooks/wordpress1pdf.pdf)
  44. [The WordPress Anthology](/Ebooks/wpant1pdf.pdf)
+ 45. [ECMAScript 2015: A SitePoint Anthology](/Ebooks/es2015ant1.pdf)
  
 
