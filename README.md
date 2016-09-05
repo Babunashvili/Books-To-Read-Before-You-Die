@@ -52,5 +52,6 @@
  39. [Lean Websites](/Ebooks/webperf1.pdf)
  40. [A Practical Guide to Information Architecture](/Ebooks/ia2.pdf)
  41. [The Principles of Beautiful Web Design, 3rd Edition](/Ebooks/design3pdf.zip)
+ 42. [Photography for the Web](/Ebooks/photography1pdf.pdf)
  
 
