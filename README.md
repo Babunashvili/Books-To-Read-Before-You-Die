@@ -47,5 +47,6 @@
  34. [PHP & MySQL: Novice To Ninja, 5th Edition](/Ebooks/phpmysql5.pdf)
  35. [The PHP Anthology: 101 Essential Tips, Tricks & Hacks, 2nd Edition](/Ebooks/phpant4pdf.pdf)
  36. [No Nonsense XML Web Development With PHP](/Ebooks/xml.pdf)
+ 37. [Jump Start Sketch](/Ebooks/jssketch1.pdf)
  
 
