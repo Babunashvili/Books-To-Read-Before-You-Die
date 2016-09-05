@@ -43,5 +43,6 @@
  30. [97 Things Every Programmer Should Know - [Henney]](/Ebooks/97%20Things%20Every%20Programmer%20Should%20Know%20-%20%5BHenney%5D.pdf)
  31. [Clean Code](/Ebooks/Clean%20Code.pdf)
  32. [Pro ADO.NET Data Services(BookFi.org)](/Ebooks/%5BJohn_Shaw%2C_Simon_Evans%5D_Pro_ADO.NET_Data_Services(BookFi.org).pdf)
+ 33. [PHP & MySQL: Novice To Ninja, 5th Edition)](/Ebooks/phpmysql5.pdf)
  
 
