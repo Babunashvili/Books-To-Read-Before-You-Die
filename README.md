@@ -46,5 +46,6 @@
  33. [Build Your Own Database Driven Web Site Using PHP & MySQL, 4th Edition](/Ebooks/phpmysql4pdf.pdf)
  34. [PHP & MySQL: Novice To Ninja, 5th Edition](/Ebooks/phpmysql5.pdf)
  35. [The PHP Anthology: 101 Essential Tips, Tricks & Hacks, 2nd Edition](/Ebooks/phpant4pdf.pdf)
+ 36. [No Nonsense XML Web Development With PHP](/Ebooks/xml.pdf)
  
 
