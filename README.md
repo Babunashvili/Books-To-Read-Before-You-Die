@@ -45,5 +45,6 @@
  32. [Pro ADO.NET Data Services(BookFi.org)](/Ebooks/%5BJohn_Shaw%2C_Simon_Evans%5D_Pro_ADO.NET_Data_Services(BookFi.org).pdf)
  33. [Build Your Own Database Driven Web Site Using PHP & MySQL, 4th Edition](/Ebooks/phpmysql4pdf.pdf)
  34. [PHP & MySQL: Novice To Ninja, 5th Edition](/Ebooks/phpmysql5.pdf)
+ 35. [The PHP Anthology: 101 Essential Tips, Tricks & Hacks, 2nd Edition](/Ebooks/phpant4pdf.pdf)
  
 
