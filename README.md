@@ -57,5 +57,6 @@
  44. [The WordPress Anthology](/Ebooks/wpant1pdf.pdf)
  45. [ECMAScript 2015: A SitePoint Anthology](/Ebooks/es2015ant1.pdf)
  46. [AngularJS: Novice to Ninja](/Ebooks/angularjs1.pdf)
+ 47. [The Art & Science of JavaScript](/Ebooks/jsdesign1.pdf)
  
 
