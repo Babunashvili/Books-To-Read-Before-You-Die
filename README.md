@@ -58,6 +58,8 @@
  45. [ECMAScript 2015: A SitePoint Anthology](/Ebooks/es2015ant1.pdf)
  46. [AngularJS: Novice to Ninja](/Ebooks/angularjs1.pdf)
  47. [The Art & Science of JavaScript](/Ebooks/jsdesign1.pdf)
- 48. [JavaScript Bible](/Ebooks/JavaScript%20Bible.pdf)
- 
+ 48. [JavaScript Bible](/Ebooks/JavaScript%20Bible.pdf) 
+ 49. [JavaScript Succinctly](/Ebooks/JavaScript_Succinctly.pdf)
 
+ 
+ 
