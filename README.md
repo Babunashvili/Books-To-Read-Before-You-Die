@@ -60,6 +60,6 @@
  47. [The Art & Science of JavaScript](/Ebooks/jsdesign1.pdf)
  48. [JavaScript Bible](/Ebooks/JavaScript%20Bible.pdf) 
  49. [JavaScript Succinctly](/Ebooks/JavaScript_Succinctly.pdf)
-
+ 50. [Node.js Succinctly](/Ebooks/Nodejs_Succinctly.pdf)
  
- 
+  
