@@ -70,10 +70,15 @@
  57. [Customer Success For C# Developers](/Ebooks/customer_success_for_c_sharp_developers.pdf)
  58. [C# Code Contracts Succinctly](/Ebooks/C_Sharp_Code_Contracts_Succinctly.pdf)
  59. [C++ Succinctly](/Ebooks/Cplusplus_Succinctly.pdf)
- 60. [Data Structures Succinctly Part 1.pdf](/Ebooks/Data%20Structures%20Succinctly%20Part%201.pdf)
+ 60. [Data Structures Succinctly Part 1](/Ebooks/Data%20Structures%20Succinctly%20Part%201.pdf)
  61. [CSS3 Succinctly](/Ebooks/CSS3_Succinctly.pdf)
  62. [F# Succinctly](/Ebooks/Fsharp_Succinctly.pdf)
  63. [ECMAScript 6 Succinctly](/Ebooks/ECMAScript_6_Succinctly.pdf)
  64. [GitHub Succinctly](/Ebooks/GitHub_Succinctly.pdf)
+ 65. [Gulp Succinctly](/Ebooks/Gulp_Succinctly.pdf)
+ 66. [iOS Succinctly](/Ebooks/iOS_Succinctly.pdf)
+ 67. [Linux Succinctly](/Ebooks/Linux_Succinctly.pdf)
+ 68. [jQuery Succinctly](/Ebooks/jQuery_Succinctly.pdf)
+ 69. [MongoDB Succinctly](/Ebooks/MongoDB_Succinctly.pdf)
  
   
