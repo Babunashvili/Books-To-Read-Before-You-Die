@@ -86,7 +86,7 @@
  73. [Practical Programming Python 2014](/Ebooks/PracticalProgrammingPython2014.pdf)
  74. [PHP 5 Power Programming](/Ebooks/PHP%205%20Power%20Programming.pdf)
  75. [Python Programming](/Ebooks/Python_Programming.pdf)
- 76. [Python](/Ebooks/Python_Succinctly.pdf) -----
+ 76. [Python](/Ebooks/Python_Succinctly.pdf)
  77. [ReactJs](/Ebooks/Reactjs_Succinctly.pdf)
  78. [TypeScript](/Ebooks/TypeScript_Succinctly.pdf)
  79. [SQL On Azure](/Ebooks/SQL_On_Azure_Succinctly.pdf)
