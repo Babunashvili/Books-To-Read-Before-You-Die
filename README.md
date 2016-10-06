@@ -86,4 +86,14 @@
  73. [Practical Programming Python 2014](/Ebooks/PracticalProgrammingPython2014.pdf)
  74. [PHP 5 Power Programming](/Ebooks/PHP%205%20Power%20Programming.pdf)
  75. [Python Programming](/Ebooks/Python_Programming.pdf)
+ 76. [Python](/Ebooks/Python_Succinctly.pdf) -----
+ 77. [ReactJs](/Ebooks/Reactjs_Succinctly.pdf)
+ 78. [TypeScript](/Ebooks/TypeScript_Succinctly.pdf)
+ 79. [SQL On Azure](/Ebooks/SQL_On_Azure_Succinctly.pdf)
+ 80. [Symfony 2.8](/Ebooks/Symfony_book_2.8.pdf)
+ 81. [Regular Expressions](/Ebooks/RegularExpressions_Succinctly.pdf)
+ 82. [Spark](/Ebooks/Spark_Succinctly.pdf)
+ 83. [Unit Testing](/Ebooks/UnitTesting_Succinctly.pdf)
+ 84. [Visual Studio Code 2016](/Ebooks/Visual_Studio_Code_2016_Succinctly.pdf)
+ 85. [Web Servers](/Ebooks/Web_Servers_Succinctly.pdf)
   
