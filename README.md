@@ -96,4 +96,4 @@
  83. [Unit Testing](/Ebooks/UnitTesting_Succinctly.pdf)
  84. [Visual Studio Code 2016](/Ebooks/Visual_Studio_Code_2016_Succinctly.pdf)
  85. [Web Servers](/Ebooks/Web_Servers_Succinctly.pdf)
-  
+ 86. [Laravel: From Apprentice To Artisan](/Ebooks/iemd.pdf)
