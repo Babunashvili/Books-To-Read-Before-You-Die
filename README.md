@@ -102,4 +102,4 @@
  89. [TypeScript Deep Dive](/Ebooks/typescript.pdf)
  90. [React Enlightenment](/Ebooks/react-enlightenment.pdf)
  91. [MIND Patterns - Accessibility Patterns for the Web](/Ebooks/mindpatterns.pdf)
- 92. [Ecmascript](/Ebooks/ecmascript.pdf)
+ 92. [EcmaScript](/Ebooks/ecmascript.pdf)
