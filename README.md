@@ -99,3 +99,4 @@
  86. [Laravel: From Apprentice To Artisan](/Ebooks/iemd.pdf)
  87. [Designing For Business](/Ebooks/Design%20For%20Business.pdf)
  88. [Professor Frisby's Mostly Adequate Guide To Functional Programming](/Ebooks/mostly-adequate-guide.pdf)
+ 89. [TypeScript Deep Dive](/Ebooks/typescript.pdf)
