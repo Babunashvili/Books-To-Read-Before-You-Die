@@ -75,10 +75,18 @@
    * [The PHP Anthology: 101 Essential Tips, Tricks & Hacks, 2nd Edition](/Ebooks/phpant4pdf.pdf)
    * [No Nonsense XML Web Development With PHP](/Ebooks/xml.pdf)
    * [PHP 5 Power Programming](/Ebooks/PHP%205%20Power%20Programming.pdf)
+   * [The Clean Architecture in PHP](/Ebooks/cleanphp-sample.pdf)
+   * [PHP Pandas (PHP7!)](/Ebooks/php-pandas-sample.pdf)
    
 ##### PHP Frameworks
    * [Laravel: From Apprentice To Artisan](/Ebooks/iemd.pdf)
+   * [Laravel: Code Bright - Dayle Rees](/Ebooks/codebright-1.pdf)
+   * [Easy Laravel 5](/Ebooks/easylaravel-sample.pdf)
+   * [Implementing Laravel](/Ebooks/implementinglaravel-sample.pdf)
+   * [Laravel 5.1 Beauty](/Ebooks/l5-beauty-sample.pdf)
+   * [Laravel and AngularJS](/Ebooks/laravel-and-angularjs-sample.pdf)
    * [Symfony 2.8](/Ebooks/Symfony_book_2.8.pdf)
+    
 
 ##### Wordpress Development
    * [The WordPress Anthology](/Ebooks/wpant1pdf.pdf)
@@ -97,6 +105,7 @@
 
 ### C++
    * [C++ Programming](/Ebooks/Cplusplus_Succinctly.pdf)
+   * [Joint Strike Fighter, C++ Coding Standards, by Bjarne Stroustrup](/Ebooks/JSF-AV-rules.pdf)
    
 ### C
    * [Objective-C](/Ebooks/Objective-C%20Succinctly.pdf)
@@ -115,6 +124,7 @@
 
 ### Version Control
    * [GitHub](/Ebooks/GitHub_Succinctly.pdf)
+   * [Git Internals](/Ebooks/peepcode-git.pdf)
 
 ### Functional Programming
    * [Professor Frisby's Mostly Adequate Guide To Functional Programming](/Ebooks/mostly-adequate-guide.pdf)
@@ -127,6 +137,10 @@
    * [Mysql Tutorial Excerpt 5.5](/Ebooks/mysql-tutorial-excerpt-5.5-en.pdf)
    * [SQL On Azure](/Ebooks/SQL_On_Azure_Succinctly.pdf)
    * [A Practical Guide to Information Architecture](/Ebooks/ia2.pdf)
+   * [Database Fundamentals](/Ebooks/Database_fundamentals.pdf)
+  
+### API
+   * [Securing The API Stronghold](/Ebooks/securing-the-api-stronghold.pdf)
    
 ### Web Servers
    * [Web Servers](/Ebooks/Web_Servers_Succinctly.pdf)
