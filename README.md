@@ -8,98 +8,146 @@
 4. Send a pull request from your fork’s branch to our master branch.
 
 
-### Enjoy Reading... ♥
+#### Enjoy Reading... ♥
 
 
- 1. [Everything You Know About CSS Is Wrong!](/Ebooks/Everything%20You%20Know%20About%20CSS%20Is%20Wrong!.pdf)
- 2. [Front End Handbook](/Ebooks/Front-End-Handbook.pdf)
- 3. [Get Started In UX](/Ebooks/Get%20Started%20In%20UX.pdf)
- 4. [Host Your Web Site in the Cloud Amazon Web Services Made Easy](/Ebooks/Host%20Your%20Web%20Site%20in%20the%20Cloud%20Amazon%20Web%20Services%20Made%20Easy.pdf)
- 5. [HTML5 & CSS3 for the Real World 2nd Edition](/Ebooks/HTML5%20%26%20CSS3%20for%20the%20Real%20World%202nd%20Edition.pdf)
- 6. [Jump Start Bootstrap](/Ebooks/Jump%20Start%20Bootstrap.pdf)
- 7. [Jump Start CoffeeScript](/Ebooks/Jump%20Start%20CoffeeScript.pdf)
- 8. [Jump Start CSS](/Ebooks/Jump%20Start%20CSS.pdf)
- 9. [Jump Start Foundation](/Ebooks/Jump%20Start%20Foundation.pdf)
- 10. [Jump Start HTML5 Basics](/Ebooks/Jump%20Start%20HTML5%20Basics.pdf)
- 11. [Jump Start HTML5](/Ebooks/Jump%20Start%20HTML5.pdf)
- 12. [Jump Start JavaScript](/Ebooks/Jump%20Start%20JavaScript.pdf)
- 13. [Jump Start MySQL](/Ebooks/Jump%20Start%20MySQL.pdf)
- 14. [Jump Start Node.js](/Ebooks/Jump%20Start%20Node.js.pdf)
- 15. [Jump Start PHP Environment](/Ebooks/Jump%20Start%20PHP%20Environment.pdf)
- 16. [Jump Start PHP](/Ebooks/Jump%20Start%20PHP.pdf)
- 17. [Jump Start Rails](/Ebooks/Jump%20Start%20Rails.pdf)
- 18. [Jump Start Responsive Web Design](/Ebooks/Jump%20Start%20Responsive%20Web%20Design.pdf)
- 19. [Object-oriented_programming_OOP_with_PHP](/Ebooks/Object-oriented_programming_OOP_with_PHP.pdf)
- 20. [Online Marketing Inside Out](/Ebooks/Online%20Marketing%20Inside%20Out.pdf)
- 21. [Outsourcing Web Projects](/Ebooks/Outsourcing%20Web%20Projects.pdf)
- 22. [PHP Master Write Cutting-edge Code](/Ebooks/PHP%20Master%20Write%20Cutting-edge%20Code.pdf)
- 23. [Prototyping](/Ebooks/Prototyping.pdf)
- 24. [Run Your Own Web Server Using Linux & Apache](/Ebooks/Run%20Your%20Own%20Web%20Server%20Using%20Linux%20%26%20Apache.pdf)
- 25. [SASS](/Ebooks/SASS.pdf)
- 26. [Simply JavaScript](/Ebooks/Simply%20JavaScript.pdf)
- 27. [Simply SQL](/Ebooks/Simply%20SQL.pdf)
- 28. [The Principles of Project Management](/Ebooks/The%20Principles%20of%20Project%20Management.pdf)
- 29. [The Ultimate CSS Reference](/Ebooks/The%20Ultimate%20CSS%20Reference.pdf)
- 30. [97 Things Every Programmer Should Know - [Henney]](/Ebooks/97%20Things%20Every%20Programmer%20Should%20Know%20-%20%5BHenney%5D.pdf)
- 31. [Clean Code](/Ebooks/Clean%20Code.pdf)
- 32. [Pro ADO.NET Data Services(BookFi.org)](/Ebooks/%5BJohn_Shaw%2C_Simon_Evans%5D_Pro_ADO.NET_Data_Services(BookFi.org).pdf)
- 33. [Build Your Own Database Driven Web Site Using PHP & MySQL, 4th Edition](/Ebooks/phpmysql4pdf.pdf)
- 34. [PHP & MySQL: Novice To Ninja, 5th Edition](/Ebooks/phpmysql5.pdf)
- 35. [The PHP Anthology: 101 Essential Tips, Tricks & Hacks, 2nd Edition](/Ebooks/phpant4pdf.pdf)
- 36. [No Nonsense XML Web Development With PHP](/Ebooks/xml.pdf)
- 37. [Jump Start Sketch](/Ebooks/jssketch1.pdf)
- 38. [The Guide To Wireframing](/Ebooks/guidetowireframing1.pdf)
- 39. [Lean Websites](/Ebooks/webperf1.pdf)
- 40. [A Practical Guide to Information Architecture](/Ebooks/ia2.pdf)
- 41. [The Principles of Beautiful Web Design, 3rd Edition](/Ebooks/design3pdf.zip)
- 42. [Photography for the Web](/Ebooks/photography1pdf.pdf)
- 43. [Build Your Own Wicked WordPress Themes](/Ebooks/wordpress1pdf.pdf)
- 44. [The WordPress Anthology](/Ebooks/wpant1pdf.pdf)
- 45. [ECMAScript 2015: A SitePoint Anthology](/Ebooks/es2015ant1.pdf)
- 46. [AngularJS: Novice to Ninja](/Ebooks/angularjs1.pdf)
- 47. [The Art & Science of JavaScript](/Ebooks/jsdesign1.pdf)
- 48. [JavaScript Bible](/Ebooks/JavaScript%20Bible.pdf) 
- 49. [JavaScript](/Ebooks/JavaScript_Succinctly.pdf)
- 50. [Node.js](/Ebooks/Nodejs_Succinctly.pdf)
- 51. [Android Programming](/Ebooks/Android_Programming_Succinctly.pdf)
- 52. [AngularJS](/Ebooks/AngularJS_Succinctly.pdf)
- 53. [ASP.NET Web API](/Ebooks/ASP.NET_Web_API_Succinctly.pdf)
- 54. [ASP.NET Multitenant Applications](/Ebooks/ASP.NET_Multitenant_Applications_Succinctly.pdf) 
- 55. [ASP.NET MVC](/Ebooks/ASP.NET_MVC_Succinctly.pdf)
- 56. [C# Programming](/Ebooks/C_Sharp_Succinctly.pdf)
- 57. [Customer Success For C# Developers](/Ebooks/customer_success_for_c_sharp_developers.pdf)
- 58. [C# Code Contracts](/Ebooks/C_Sharp_Code_Contracts_Succinctly.pdf)
- 59. [C++ Programming](/Ebooks/Cplusplus_Succinctly.pdf)
- 60. [Data Structures Succinctly Part 1](/Ebooks/Data%20Structures%20Succinctly%20Part%201.pdf)
- 61. [CSS3 ](/Ebooks/CSS3_Succinctly.pdf)
- 62. [F# Programming](/Ebooks/Fsharp_Succinctly.pdf)
- 63. [ECMAScript 6](/Ebooks/ECMAScript_6_Succinctly.pdf)
- 64. [GitHub](/Ebooks/GitHub_Succinctly.pdf)
- 65. [Gulp](/Ebooks/Gulp_Succinctly.pdf)
- 66. [iOS Development](/Ebooks/iOS_Succinctly.pdf)
- 67. [Linux](/Ebooks/Linux_Succinctly.pdf)
- 68. [jQuery](/Ebooks/jQuery_Succinctly.pdf)
- 69. [MongoDB](/Ebooks/MongoDB_Succinctly.pdf)
- 70. [Mysql Tutorial Excerpt 5.5](/Ebooks/mysql-tutorial-excerpt-5.5-en.pdf)
- 71. [Object Oriented Programming C#](/Ebooks/Object_Oriented_Programming_C_Sharp_Succinctly.pdf)
- 72. [Objective-C](/Ebooks/Objective-C%20Succinctly.pdf)
- 73. [Practical Programming Python 2014](/Ebooks/PracticalProgrammingPython2014.pdf)
- 74. [PHP 5 Power Programming](/Ebooks/PHP%205%20Power%20Programming.pdf)
- 75. [Python Programming](/Ebooks/Python_Programming.pdf)
- 76. [Python](/Ebooks/Python_Succinctly.pdf)
- 77. [ReactJs](/Ebooks/Reactjs_Succinctly.pdf)
- 78. [TypeScript](/Ebooks/TypeScript_Succinctly.pdf)
- 79. [SQL On Azure](/Ebooks/SQL_On_Azure_Succinctly.pdf)
- 80. [Symfony 2.8](/Ebooks/Symfony_book_2.8.pdf)
- 81. [Regular Expressions](/Ebooks/RegularExpressions_Succinctly.pdf)
- 82. [Spark](/Ebooks/Spark_Succinctly.pdf)
- 83. [Unit Testing](/Ebooks/UnitTesting_Succinctly.pdf)
- 84. [Visual Studio Code 2016](/Ebooks/Visual_Studio_Code_2016_Succinctly.pdf)
- 85. [Web Servers](/Ebooks/Web_Servers_Succinctly.pdf)
- 86. [Laravel: From Apprentice To Artisan](/Ebooks/iemd.pdf)
- 87. [Designing For Business](/Ebooks/Design%20For%20Business.pdf)
- 88. [Professor Frisby's Mostly Adequate Guide To Functional Programming](/Ebooks/mostly-adequate-guide.pdf)
- 89. [TypeScript Deep Dive](/Ebooks/typescript.pdf)
- 90. [React Enlightenment](/Ebooks/react-enlightenment.pdf)
- 91. [MIND Patterns - Accessibility Patterns for the Web](/Ebooks/mindpatterns.pdf)
- 92. [EcmaScript](/Ebooks/ecmascript.pdf)
+## Web Development
+ * [Build Your Own Database Driven Web Site Using PHP & MySQL, 4th Edition](/Ebooks/phpmysql4pdf.pdf)
+ * [Host Your Web Site in the Cloud Amazon Web Services Made Easy](/Ebooks/Host%20Your%20Web%20Site%20in%20the%20Cloud%20Amazon%20Web%20Services%20Made%20Easy.pdf)
+ * [Outsourcing Web Projects](/Ebooks/Outsourcing%20Web%20Projects.pdf)
+ * [97 Things Every Programmer Should Know](/Ebooks/97%20Things%20Every%20Programmer%20Should%20Know%20-%20%5BHenney%5D.pdf)
+ * [Clean Code](/Ebooks/Clean%20Code.pdf)
+ * [Lean Websites](/Ebooks/webperf1.pdf)
+ * [MIND Patterns - Accessibility Patterns for the Web](/Ebooks/mindpatterns.pdf)
+ * [Unit Testing](/Ebooks/UnitTesting_Succinctly.pdf)
+ * [Spark](/Ebooks/Spark_Succinctly.pdf)
+ * [Regular Expressions](/Ebooks/RegularExpressions_Succinctly.pdf)
+ * [Front End Handbook](/Ebooks/Front-End-Handbook.pdf)
+   
+### HTML & CSS
+ * [Jump Start HTML5 Basics](/Ebooks/Jump%20Start%20HTML5%20Basics.pdf)
+ * [Jump Start HTML5](/Ebooks/Jump%20Start%20HTML5.pdf)
+ * [Everything You Know About CSS Is Wrong!](/Ebooks/Everything%20You%20Know%20About%20CSS%20Is%20Wrong!.pdf)
+ * [HTML5 & CSS3 for the Real World 2nd Edition](/Ebooks/HTML5%20%26%20CSS3%20for%20the%20Real%20World%202nd%20Edition.pdf)
+ * [Jump Start Responsive Web Design](/Ebooks/Jump%20Start%20Responsive%20Web%20Design.pdf)
+ * [The Ultimate CSS Reference](/Ebooks/The%20Ultimate%20CSS%20Reference.pdf)
+ * [CSS3 ](/Ebooks/CSS3_Succinctly.pdf)
+ * [Jump Start CSS](/Ebooks/Jump%20Start%20CSS.pdf)
+ 
+##### CSS Pre-processors
+  * [SASS](/Ebooks/SASS.pdf)
+  
+### JavaScript
+   * [Simply JavaScript](/Ebooks/Simply%20JavaScript.pdf)
+   * [Jump Start CoffeeScript](/Ebooks/Jump%20Start%20CoffeeScript.pdf)
+   * [Jump Start JavaScript](/Ebooks/Jump%20Start%20JavaScript.pdf)
+   * [Jump Start Node.js](/Ebooks/Jump%20Start%20Node.js.pdf)
+   * [ECMAScript 2015: A SitePoint Anthology](/Ebooks/es2015ant1.pdf)
+   * [The Art & Science of JavaScript](/Ebooks/jsdesign1.pdf)
+   * [JavaScript Bible](/Ebooks/JavaScript%20Bible.pdf)
+   * [JavaScript](/Ebooks/JavaScript_Succinctly.pdf)
+   * [Node.js](/Ebooks/Nodejs_Succinctly.pdf)
+   * [ECMAScript 6](/Ebooks/ECMAScript_6_Succinctly.pdf)
+   * [TypeScript](/Ebooks/TypeScript_Succinctly.pdf)
+   * [EcmaScript](/Ebooks/ecmascript.pdf)
+   * [TypeScript Deep Dive](/Ebooks/typescript.pdf)
+   
+##### JavaScript Frameworks & Libraries
+   * [AngularJS: Novice to Ninja](/Ebooks/angularjs1.pdf)
+   * [AngularJS](/Ebooks/AngularJS_Succinctly.pdf)
+   * [jQuery](/Ebooks/jQuery_Succinctly.pdf)
+   * [ReactJs](/Ebooks/Reactjs_Succinctly.pdf)
+   * [React Enlightenment](/Ebooks/react-enlightenment.pdf)
+
+##### JavaScript Task Runner
+   * [Gulp](/Ebooks/Gulp_Succinctly.pdf)
+
+### Front-End Frameworks
+   * [Jump Start Bootstrap](/Ebooks/Jump%20Start%20Bootstrap.pdf)
+   * [Jump Start Foundation](/Ebooks/Jump%20Start%20Foundation.pdf)
+
+### PHP
+   * [Jump Start PHP Environment](/Ebooks/Jump%20Start%20PHP%20Environment.pdf)
+   * [Jump Start PHP](/Ebooks/Jump%20Start%20PHP.pdf)
+   * [PHP Master Write Cutting-edge Code](/Ebooks/PHP%20Master%20Write%20Cutting-edge%20Code.pdf)
+   * [Object-oriented_programming_OOP_with_PHP](/Ebooks/Object-oriented_programming_OOP_with_PHP.pdf)
+   * [PHP & MySQL: Novice To Ninja, 5th Edition](/Ebooks/phpmysql5.pdf)
+   * [The PHP Anthology: 101 Essential Tips, Tricks & Hacks, 2nd Edition](/Ebooks/phpant4pdf.pdf)
+   * [No Nonsense XML Web Development With PHP](/Ebooks/xml.pdf)
+   * [PHP 5 Power Programming](/Ebooks/PHP%205%20Power%20Programming.pdf)
+   
+##### PHP Frameworks
+   * [Laravel: From Apprentice To Artisan](/Ebooks/iemd.pdf)
+   * [Symfony 2.8](/Ebooks/Symfony_book_2.8.pdf)
+
+##### Wordpress Development
+   * [The WordPress Anthology](/Ebooks/wpant1pdf.pdf)
+   * [Build Your Own Wicked WordPress Themes](/Ebooks/wordpress1pdf.pdf)
+
+### C# 
+   * [C# Programming](/Ebooks/C_Sharp_Succinctly.pdf)
+   * [Customer Success For C# Developers](/Ebooks/customer_success_for_c_sharp_developers.pdf)
+   * [C# Code Contracts](/Ebooks/C_Sharp_Code_Contracts_Succinctly.pdf)
+   * [Object Oriented Programming C#](/Ebooks/Object_Oriented_Programming_C_Sharp_Succinctly.pdf)
+   
+### Python
+   * [Python Programming](/Ebooks/Python_Programming.pdf)
+   * [Python](/Ebooks/Python_Succinctly.pdf)
+   * [Practical Programming Python 2014](/Ebooks/PracticalProgrammingPython2014.pdf)
+
+### C++
+   * [C++ Programming](/Ebooks/Cplusplus_Succinctly.pdf)
+   
+### C
+   * [Objective-C](/Ebooks/Objective-C%20Succinctly.pdf)
+
+### F# 
+   * [F# Programming](/Ebooks/Fsharp_Succinctly.pdf)
+
+### Rails
+   * [Jump Start Rails](/Ebooks/Jump%20Start%20Rails.pdf)
+   
+### .NET
+   * [ASP.NET Web API](/Ebooks/ASP.NET_Web_API_Succinctly.pdf)
+   * [ASP.NET Multitenant Applications](/Ebooks/ASP.NET_Multitenant_Applications_Succinctly.pdf)
+   * [ASP.NET MVC](/Ebooks/ASP.NET_MVC_Succinctly.pdf)
+   * [Pro ADO.NET Data Services(BookFi.org)](/Ebooks/%5BJohn_Shaw%2C_Simon_Evans%5D_Pro_ADO.NET_Data_Services(BookFi.org).pdf)
+
+### Version Control
+   * [GitHub](/Ebooks/GitHub_Succinctly.pdf)
+
+### Functional Programming
+   * [Professor Frisby's Mostly Adequate Guide To Functional Programming](/Ebooks/mostly-adequate-guide.pdf)
+
+### Databases
+   * [Jump Start MySQL](/Ebooks/Jump%20Start%20MySQL.pdf)
+   * [Simply SQL](/Ebooks/Simply%20SQL.pdf)
+   * [Data Structures Succinctly Part 1](/Ebooks/Data%20Structures%20Succinctly%20Part%201.pdf)
+   * [MongoDB](/Ebooks/MongoDB_Succinctly.pdf)
+   * [Mysql Tutorial Excerpt 5.5](/Ebooks/mysql-tutorial-excerpt-5.5-en.pdf)
+   * [SQL On Azure](/Ebooks/SQL_On_Azure_Succinctly.pdf)
+   * [A Practical Guide to Information Architecture](/Ebooks/ia2.pdf)
+   
+### Web Servers
+   * [Web Servers](/Ebooks/Web_Servers_Succinctly.pdf)
+   * [Linux](/Ebooks/Linux_Succinctly.pdf)
+   * [Run Your Own Web Server Using Linux & Apache](/Ebooks/Run%20Your%20Own%20Web%20Server%20Using%20Linux%20%26%20Apache.pdf)
+
+## Mobile Development
+  * [iOS Development](/Ebooks/iOS_Succinctly.pdf)
+  * [Android Development](/Ebooks/Android_Programming_Succinctly.pdf)
+
+## Development Tools 
+  * [Visual Studio Code 2016](/Ebooks/Visual_Studio_Code_2016_Succinctly.pdf)
+
+## Web Design
+  * [Jump Start Sketch](/Ebooks/jssketch1.pdf)
+  * [The Guide To Wireframing](/Ebooks/guidetowireframing1.pdf)
+  * [The Principles of Beautiful Web Design, 3rd Edition](/Ebooks/design3pdf.zip)
+  * [Designing For Business](/Ebooks/Design%20For%20Business.pdf)
+  * [Get Started In UX](/Ebooks/Get%20Started%20In%20UX.pdf)
+  * [Prototyping](/Ebooks/Prototyping.pdf)
+
+## Other Books
+  * [Online Marketing Inside Out](/Ebooks/Online%20Marketing%20Inside%20Out.pdf)
+  * [The Principles of Project Management](/Ebooks/The%20Principles%20of%20Project%20Management.pdf)
