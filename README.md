@@ -23,6 +23,7 @@
  * [Spark](/Ebooks/Spark_Succinctly.pdf)
  * [Regular Expressions](/Ebooks/RegularExpressions_Succinctly.pdf)
  * [Front End Handbook](/Ebooks/Front-End-Handbook.pdf)
+ * [Refactoring - Improving the Design of Existing Code](/Ebooks/Refactoring_improving_the_design_of_existing_code.pdf)
    
 ### HTML & CSS
  * [Jump Start HTML5 Basics](/Ebooks/Jump%20Start%20HTML5%20Basics.pdf)
