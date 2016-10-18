@@ -168,3 +168,4 @@
 ## Other Books
   * [Online Marketing Inside Out](/Ebooks/Online%20Marketing%20Inside%20Out.pdf)
   * [The Principles of Project Management](/Ebooks/The%20Principles%20of%20Project%20Management.pdf)
+  * [Continuous Delivery](/Ebooks/ContinuousDelivery.pdf)
