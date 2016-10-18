@@ -25,6 +25,7 @@
  * [Front End Handbook](/Ebooks/Front-End-Handbook.pdf)
  * [Refactoring - Improving the Design of Existing Code](/Ebooks/Refactoring_improving_the_design_of_existing_code.pdf)
  * [Refactoring Object-Oriented Frameworks](/Ebooks/opdyke-thesis.pdf)
+ * [Patterns of Enterprise Application Architecture](/Ebooks/Patterns%20of%20Enterprise%20Application%20Architecture.pdf)
    
 ### HTML & CSS
  * [Jump Start HTML5 Basics](/Ebooks/Jump%20Start%20HTML5%20Basics.pdf)
