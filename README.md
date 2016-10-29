@@ -136,6 +136,7 @@
    * [ASP.NET Multitenant Applications](/Ebooks/ASP.NET_Multitenant_Applications_Succinctly.pdf)
    * [ASP.NET MVC](/Ebooks/ASP.NET_MVC_Succinctly.pdf)
    * [Pro ADO.NET Data Services(BookFi.org)](/Ebooks/%5BJohn_Shaw%2C_Simon_Evans%5D_Pro_ADO.NET_Data_Services(BookFi.org).pdf)
+   * [Beginning SOLID Principles and Design Patterns for ASP.NET Developers](/Ebooks/Beginning-SOLID-Principles-and-Design-Patterns-for-ASP-NET-Developers-Bipin-Joshi(www.ebook-dl.com).pdf)
 
 ### Version Control
    * [GitHub](/Ebooks/GitHub_Succinctly.pdf)
