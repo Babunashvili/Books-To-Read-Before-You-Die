@@ -61,6 +61,7 @@
    * [jQuery](/Ebooks/jQuery_Succinctly.pdf)
    * [ReactJs](/Ebooks/Reactjs_Succinctly.pdf)
    * [React Enlightenment](/Ebooks/react-enlightenment.pdf)
+   * [Full Stack Web Development with Backbone.js 1st Edition](/Ebooks/full-stack-web-development-with-patrick-mulder(www.ebook-dl.com).pdf)
 
 ##### JavaScript Task Runner
    * [Gulp](/Ebooks/Gulp_Succinctly.pdf)
