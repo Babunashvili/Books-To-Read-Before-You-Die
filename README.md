@@ -93,6 +93,7 @@
    * [Laravel 5 Essentials](/Ebooks/Laravel%205%20Essentials.pdf)
    * [Mastering Laravel](/Ebooks/Mastering_Laravel.pdf)
    * [Laravel Design Patterns and Best Practices](/Ebooks/9781783287987_Chapter_2.pdf)
+   * [Learning Laravel's Eloquent](/Ebooks/Learning%20Laravel's%20Eloquent.pdf)
     
 
 ##### Wordpress Development
