@@ -90,6 +90,7 @@
    * [Laravel 5.1 Beauty](/Ebooks/l5-beauty-sample.pdf)
    * [Laravel and AngularJS](/Ebooks/laravel-and-angularjs-sample.pdf)
    * [Symfony 2.8](/Ebooks/Symfony_book_2.8.pdf)
+   * [Laravel 5 Essentials](/Ebooks/Laravel%205%20Essentials.pdf)
     
 
 ##### Wordpress Development
