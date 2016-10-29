@@ -65,6 +65,7 @@
    * [React Enlightenment](/Ebooks/react-enlightenment.pdf)
    * [Full Stack Web Development with Backbone.js 1st Edition](/Ebooks/full-stack-web-development-with-patrick-mulder(www.ebook-dl.com).pdf)
    * [Data-oriented Development with Angularjs](/Ebooks/data-oriented-development-with-manoj-waikar(www.ebook-dl.com).pdf)
+   * [Professional AngularJS 1st Edition](/Ebooks/professional-angularjs-1st-edition-valeri-karpov(www.ebook-dl.com).pdf)
 
 ##### JavaScript Task Runner
    * [Gulp](/Ebooks/Gulp_Succinctly.pdf)
