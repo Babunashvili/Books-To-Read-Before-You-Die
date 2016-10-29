@@ -80,6 +80,7 @@
    * [PHP 5 Power Programming](/Ebooks/PHP%205%20Power%20Programming.pdf)
    * [The Clean Architecture in PHP](/Ebooks/cleanphp-sample.pdf)
    * [PHP Pandas (PHP7!)](/Ebooks/php-pandas-sample.pdf)
+   * [PHP Objects, Patterns, and Practice)](/Ebooks/PHP%20Objects%2C%20Patterns%2C%20and%20Practice.pdf)
    
 ##### PHP Frameworks
    * [Laravel: From Apprentice To Artisan](/Ebooks/iemd.pdf)
