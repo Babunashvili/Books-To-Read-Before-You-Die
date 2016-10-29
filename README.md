@@ -97,6 +97,7 @@
    * [Laravel Design Patterns and Best Practices](/Ebooks/9781783287987_Chapter_2.pdf)
    * [Learning Laravel's Eloquent](/Ebooks/Learning%20Laravel's%20Eloquent.pdf)
    * [Laravel Application Development Blueprints](/Ebooks/Laravel-Application-Development-Blueprints-2013-Arda-Kilicdagi(www.ebook-dl.com).pdf)
+   * [Web Application Development with Yii 2 and PHP](/Ebooks/web-application-development-with-mark-safronov(www.ebook-dl.com).pdf)
     
 
 ##### Wordpress Development
