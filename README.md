@@ -150,8 +150,9 @@
    * [A Practical Guide to Information Architecture](/Ebooks/ia2.pdf)
    * [Database Fundamentals](/Ebooks/Database_fundamentals.pdf)
   
-### API
+### The Web APIs
    * [Securing The API Stronghold](/Ebooks/securing-the-api-stronghold.pdf)
+   * [Build APIs You Won't Hate](/Ebooks/build-apis-you-wont-hate-everyone-phil-sturgeon(www.ebook-dl.com).pdf)
    
 ### Web Servers
    * [Web Servers](/Ebooks/Web_Servers_Succinctly.pdf)
