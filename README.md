@@ -92,6 +92,7 @@
    * [Symfony 2.8](/Ebooks/Symfony_book_2.8.pdf)
    * [Laravel 5 Essentials](/Ebooks/Laravel%205%20Essentials.pdf)
    * [Mastering Laravel](/Ebooks/Mastering_Laravel.pdf)
+   * [Laravel Design Patterns and Best Practices](/Ebooks/9781783287987_Chapter_2.pdf)
     
 
 ##### Wordpress Development
