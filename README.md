@@ -56,6 +56,7 @@
    * [TypeScript](/Ebooks/TypeScript_Succinctly.pdf)
    * [EcmaScript](/Ebooks/ecmascript.pdf)
    * [TypeScript Deep Dive](/Ebooks/typescript.pdf)
+   * [The Principles of Object-Oriented JavaScript](/Ebooks/The-Principles-of-Object-Oriented-JavaScript-Nicholas-C-Zakas(www.ebook-dl.com).pdf)
    
 ##### JavaScript Frameworks & Libraries
    * [AngularJS: Novice to Ninja](/Ebooks/angularjs1.pdf)
