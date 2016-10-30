@@ -69,6 +69,7 @@
 
 ##### JavaScript Task Runner
    * [Gulp](/Ebooks/Gulp_Succinctly.pdf)
+   * [Getting Started with Grunt](/Ebooks/Getting-Started-with-Grunt-The-JavaScript-Task-Runner-Jaime-Pillora(www.ebook-dl.com).pdf)
 
 ### Front-End Frameworks
    * [Jump Start Bootstrap](/Ebooks/Jump%20Start%20Bootstrap.pdf)
