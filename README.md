@@ -158,6 +158,7 @@
 ### The Web APIs
    * [Securing The API Stronghold](/Ebooks/securing-the-api-stronghold.pdf)
    * [Build APIs You Won't Hate](/Ebooks/build-apis-you-wont-hate-everyone-phil-sturgeon(www.ebook-dl.com).pdf)
+   * [OAuth 2.0 Identity and Access Management Patterns](/Ebooks/OAuth-2-0-Identity-and-Access-Management-Patterns-2013-Martin-Spasovski(www.ebook-dl.com).pdf)
    
 ### Web Servers
    * [Web Servers](/Ebooks/Web_Servers_Succinctly.pdf)
