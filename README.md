@@ -38,6 +38,7 @@
  * [The Ultimate CSS Reference](/Ebooks/The%20Ultimate%20CSS%20Reference.pdf)
  * [CSS3 ](/Ebooks/CSS3_Succinctly.pdf)
  * [Jump Start CSS](/Ebooks/Jump%20Start%20CSS.pdf)
+ * [CSS3 The Missing Manual](/Ebooks/CSS3%20the%20missing%20manual.zip)
  
 ##### CSS Pre-processors
   * [SASS](/Ebooks/SASS.pdf)
