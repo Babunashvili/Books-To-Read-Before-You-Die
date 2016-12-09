@@ -166,6 +166,7 @@
    * [Build APIs You Won't Hate](/Ebooks/build-apis-you-wont-hate-everyone-phil-sturgeon(www.ebook-dl.com).pdf)
    * [OAuth 2.0 Identity and Access Management Patterns](/Ebooks/OAuth-2-0-Identity-and-Access-Management-Patterns-2013-Martin-Spasovski(www.ebook-dl.com).pdf)
    * [RESTful Web Services](/Ebooks/RESTful_Web_Services.pdf)
+   * [Web API Design](/Ebooks/ebook-2013-03-wad.pdf)
    
 ### Web Servers
    * [Web Servers](/Ebooks/Web_Servers_Succinctly.pdf)
