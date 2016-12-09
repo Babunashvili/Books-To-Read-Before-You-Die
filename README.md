@@ -82,6 +82,8 @@
  
 ### Web Animations
    * [SVG and SMIL Animation](/Ebooks/SVGSMIL.pdf)
+   * [Building Web Applications with SVG](/Ebooks/Building%20Web%20Applications%20with%20SVG.zip)
+   * [SVG Scalable Vector Graphics](/Ebooks/svg_tutorial.pdf)
 
 ### PHP
    * [Jump Start PHP Environment](/Ebooks/Jump%20Start%20PHP%20Environment.pdf)
