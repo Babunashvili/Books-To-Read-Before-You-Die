@@ -79,6 +79,9 @@
 ### Front-End Frameworks
    * [Jump Start Bootstrap](/Ebooks/Jump%20Start%20Bootstrap.pdf)
    * [Jump Start Foundation](/Ebooks/Jump%20Start%20Foundation.pdf)
+ 
+### Web Animations
+   * [SVG and SMIL Animation](/Ebooks/SVGSMIL.pdf)
 
 ### PHP
    * [Jump Start PHP Environment](/Ebooks/Jump%20Start%20PHP%20Environment.pdf)
