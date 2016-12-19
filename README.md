@@ -39,6 +39,8 @@
  * [CSS3 ](/Ebooks/CSS3_Succinctly.pdf)
  * [Jump Start CSS](/Ebooks/Jump%20Start%20CSS.pdf)
  * [CSS3 The Missing Manual](/Ebooks/CSS3%20the%20missing%20manual.zip)
+ * [CSS3 Fundamentals](/Ebooks/12827.pdf)
+ * [Mastering CSS3](/Ebooks/smashing-ebook-19-mastering-css3.pdf)
  
 ##### CSS Pre-processors
   * [SASS](/Ebooks/SASS.pdf)
@@ -60,6 +62,7 @@
    * [The Principles of Object-Oriented JavaScript](/Ebooks/The-Principles-of-Object-Oriented-JavaScript-Nicholas-C-Zakas(www.ebook-dl.com).pdf)
    * [Foundation HTML5 Animation with JavaScript](/Ebooks/Foundation_HTML5_Animation_with_JavaScript_Billy_Lamberta_Keith_Peters(www.ebook-dl.com).pdf)
    * [Pro JavaScript Design Patterns](/Ebooks/Pro_JavaScript_Design_Patterns_Dustin_Diaz_Ross_Harmes(www.ebook-dl.com).pdf)
+   * [Object-Oriented JavaScript](/Ebooks/Object-Oriented-JavaScript.pdf)
    
 ##### JavaScript Frameworks & Libraries
    * [AngularJS: Novice to Ninja](/Ebooks/angularjs1.pdf)
@@ -71,6 +74,8 @@
    * [Data-oriented Development with Angularjs](/Ebooks/data-oriented-development-with-manoj-waikar(www.ebook-dl.com).pdf)
    * [Professional AngularJS 1st Edition](/Ebooks/professional-angularjs-1st-edition-valeri-karpov(www.ebook-dl.com).pdf)
    * [30 Days Of React](/Ebooks/30-days-of-react-ebook-fullstackio.pdf)
+   * [Become a ninja with Angular2](/Ebooks/Become_a_ninja_with_Angular2_sample.pdf)
+   * [Flux & React](/Ebooks/2015-fall-Flux.React-RITLug.pdf)
 
 ##### JavaScript Task Runner
    * [Gulp](/Ebooks/Gulp_Succinctly.pdf)
@@ -117,6 +122,7 @@
 ##### Wordpress Development
    * [The WordPress Anthology](/Ebooks/wpant1pdf.pdf)
    * [Build Your Own Wicked WordPress Themes](/Ebooks/wordpress1pdf.pdf)
+   * [The Ultimate Guide To The WordPress REST API](/Ebooks/WordPress-API-ebook-Mammoth-Solutions.pdf)
 
 ### C# 
    * [C# Programming](/Ebooks/C_Sharp_Succinctly.pdf)
@@ -152,6 +158,7 @@
 ### Version Control
    * [GitHub](/Ebooks/GitHub_Succinctly.pdf)
    * [Git Internals](/Ebooks/peepcode-git.pdf)
+   * [Version Control with Git](/Ebooks/OReilly-Version-Control-with-GIT.pdf)
 
 ### Functional Programming
    * [Professor Frisby's Mostly Adequate Guide To Functional Programming](/Ebooks/mostly-adequate-guide.pdf)
