@@ -77,6 +77,7 @@
    * [30 Days Of React](/Ebooks/30-days-of-react-ebook-fullstackio.pdf)
    * [Become a ninja with Angular2](/Ebooks/Become_a_ninja_with_Angular2_sample.pdf)
    * [Flux & React](/Ebooks/2015-fall-Flux.React-RITLug.pdf)
+   * [The Road to learn React](/Ebooks/the-road-to-learn-react.pdf)
 
 ##### JavaScript Task Runner
    * [Gulp](/Ebooks/Gulp_Succinctly.pdf)
