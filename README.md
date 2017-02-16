@@ -64,6 +64,7 @@
    * [Foundation HTML5 Animation with JavaScript](/Ebooks/Foundation_HTML5_Animation_with_JavaScript_Billy_Lamberta_Keith_Peters(www.ebook-dl.com).pdf)
    * [Pro JavaScript Design Patterns](/Ebooks/Pro_JavaScript_Design_Patterns_Dustin_Diaz_Ross_Harmes(www.ebook-dl.com).pdf)
    * [Object-Oriented JavaScript](/Ebooks/Object-Oriented-JavaScript.pdf)
+   * [Javascript The Good Parts](/Ebooks/javascript_the_good_parts.pdf)
    
 ##### JavaScript Frameworks & Libraries
    * [AngularJS: Novice to Ninja](/Ebooks/angularjs1.pdf)
