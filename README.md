@@ -80,6 +80,7 @@
    * [Flux & React](/Ebooks/2015-fall-Flux.React-RITLug.pdf)
    * [The Road to learn React](/Ebooks/the-road-to-learn-react.pdf)
    * [Discover Meteor – Building Real-Time JavaScript Web Apps](/Ebooks/Discover%2BMeteor%2B–%2BBuilding%2BReal-Time%2BJavaScript%2BWeb%2BApps%2B–%2BSacha%2BGreif%2B%26%2BTom%2BColeman.pdf)
+   * [Learn RxJS](/Ebooks/learn-rxjs.pdf)
 
 ##### JavaScript Task Runner
    * [Gulp](/Ebooks/Gulp_Succinctly.pdf)
