@@ -45,6 +45,7 @@
  
 ##### CSS Pre-processors
   * [SASS](/Ebooks/SASS.pdf)
+  * [Sass and Compass for Designers](/Ebooks/Sass%20and%20Compass%20for%20Designers.pdf)
   
 ### JavaScript
    * [Simply JavaScript](/Ebooks/Simply%20JavaScript.pdf)
