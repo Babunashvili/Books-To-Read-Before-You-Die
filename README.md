@@ -67,6 +67,7 @@
    * [Object-Oriented JavaScript](/Ebooks/Object-Oriented-JavaScript.pdf)
    * [Javascript The Good Parts](/Ebooks/javascript_the_good_parts.pdf)
    * [JavaScript Design Patterns](/Ebooks/Packt.Mastering.JavaScript.Design.Patterns.Nov.2014.ISBN.1783987987.pdf)
+   * [Speaking JavaScript](/Ebooks/Speaking%20JavaScript.pdf)
    
 ##### JavaScript Frameworks & Libraries
    * [AngularJS: Novice to Ninja](/Ebooks/angularjs1.pdf)
