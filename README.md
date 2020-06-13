@@ -216,4 +216,6 @@
   * [The 4-hour workweek](/Ebooks/the-4-hour-workweek-expanded-and-updated-by-timothy-ferriss.pdf)
   * [Badass: Making Users Awesome](https://drive.google.com/file/d/0B1TjP5Hk6ydlbE1CYWZGeV9KS1E/view?usp=sharing)
   * [Social Media At School](/Ebooks/social_media_at_school_manual.pdf)	
+  * [The Secrets Of Successful Online Communities](/Ebooks/PeepSo-TheSecretsOfSuccessfulOnlineCommunities.pdf)	
+   
 
